@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vemulapalli Satya Sai Rakesh</h1>
-<h3 align="center">Aspiring Data Analyst with a passion for continuous learning and exploration 📊🔍 | Engineer at LTTS | Embracing the world of data and technology, one insight at a time | Turning curiosity into meaningful analysis | Always seeking new challenges and growth opportunities | Let's connect and embark on this exciting journey together! 🌐📈 #DataAnalytics #TechEnthusiast #LifelongLearner</h3>
+<h3 align="center"><h3><img align="left" width="70" src="https://www.freeiconspng.com/thumbs/human-icon-png/go-back--gallery-for--contact-person-icon-png-21.png"> ABOUT ME </h3>
+  
+Aspiring Data Analyst with a passion for continuous learning and exploration 📊🔍 | Engineer at LTTS | Embracing the world of data and technology, one insight at a time | Turning curiosity into meaningful analysis | Always seeking new challenges and growth opportunities | Let's connect and embark on this exciting journey together! 🌐📈 #DataAnalytics #TechEnthusiast #LifelongLearner</h3>
 
 <img align="right" alt="Data Analytics" width="300" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
-- 📫 Reach me at: [![Gmail](https://img.shields.io/badge/Email-VemulapalliRakesh27%40gmail.com-blue?style=flat-square&logo=Gmail)]
+- 📫 Reach me at:-
+ [<img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" height="40">](mailto:VemulapalliRakesh27@gmail.com)
 
 - ⚡ Fun fact **I am funny**
 
@@ -20,6 +23,3 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /></a>
 </p>
-
-
-
