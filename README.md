@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vemulapalli Satya Sai Rakesh</h1>
 <h3 align="center">Aspiring Data Analyst with a passion for continuous learning and exploration 📊🔍 | Engineer at LTTS | Embracing the world of data and technology, one insight at a time | Turning curiosity into meaningful analysis | Always seeking new challenges and growth opportunities | Let's connect and embark on this exciting journey together! 🌐📈 #DataAnalytics #TechEnthusiast #LifelongLearner</h3>
 
-- 📫 How to reach me **Vemulapalli.Rakesh27@gmail.com**
+- 📫 How to reach me **VemulapalliRakesh27@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
