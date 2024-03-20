@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vemulapalli Satya Sai Rakesh</h1>
 <h3 align="center"><h3><img align="left" width="70" src="https://www.freeiconspng.com/thumbs/human-icon-png/go-back--gallery-for--contact-person-icon-png-21.png"> ABOUT ME </h3>
   
-Aspiring Data Analyst with a passion for continuous learning and exploration 📊🔍 | Engineer at LTTS | Embracing the world of data and technology, one insight at a time | Turning curiosity into meaningful analysis | Always seeking new challenges and growth opportunities | Let's connect and embark on this exciting journey together! 🌐📈 #DataAnalytics #TechEnthusiast #LifelongLearner</h3>
+A Data Analyst with a passion for continuous learning and exploration 📊🔍 | Engineer at LTTS | Embracing the world of data and technology, one insight at a time | Turning curiosity into meaningful analysis | Always seeking new challenges and growth opportunities | Let's connect and embark on this exciting journey together! 🌐📈 #DataAnalytics #TechEnthusiast #LifelongLearner</h3>
 
 <img align="right" alt="Data Analytics" width="300" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
